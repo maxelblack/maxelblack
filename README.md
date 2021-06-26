@@ -19,6 +19,8 @@ MaxelBlack {
       GitHub("DP7-Network/HomeEntity"),
       GitHub("pd2-works/psh"))
 
+  :mainLang="Java"
+
 }
 ```
 
