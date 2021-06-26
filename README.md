@@ -7,7 +7,7 @@ MaxelBlack {
 
   :workingOn="Maxel Tech."
 
-  :is="Currently a senior high student."
+  :is="A senior high student & Java programmer."
 
   :contact=Array(
       URL("https://t.me/maxelbk"),
