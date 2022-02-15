@@ -28,6 +28,8 @@ MaxelBlack {
 
 By the way, the data language is MXOL, which is one of my projects.
 
+This repository also contains my home page. (Yeah it is in `src` directory)
+
 <!--
 **maxelblack/maxelblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
