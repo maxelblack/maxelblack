@@ -8,6 +8,8 @@ I usually develop with `Java` or `Kotlin/JVM` , sometimes write a little `HTML` 
 
 [![Maxel Black's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxelblack&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
+[![most-used-language](https://github-readme-stats.vercel.app/api/top-langs/?username=maxelblack&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+
 By the way, I've used Arch Linux for three years before. But I'm now using Windows because of its compatibility.
 
 This repository also contains my home page. (Yeah it is in `src` directory)
