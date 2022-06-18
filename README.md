@@ -1,32 +1,14 @@
-## Hi there, this is `MaxelBlack()` .
+## Hi there
+
+This is Maxel Black, a developer who loves cross-platform frameworks. 
+
+...but also Windows UI!
+
+I usually develop with `Java` or `Kotlin/JVM` , sometimes write a little `HTML` and `CSS` . I hate `Python` and `PHP` , although they're simple for small tools / web development. And I'm currently a senior high student.
 
 [![Maxel Black's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxelblack&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-```
-MaxelBlack {
-
-  :workingOn="Maxel Tech."
-
-  :is="A senior high student & Java programmer."
-
-  :contact=Array(
-      URL("https://t.me/maxelbk")
-      URL("https://twitter.com/maxelbk")
-      URL("https://maxelblack.github.io/contact"))
-
-  :recently=Array(
-      GitHub("maxelblack/mxol"),
-      GitHub("maxelblack/MXCL"),
-      GitHub("pd2-works/psh"))
-
-  :mainLang=Array("Java", "Kotlin")
-
-}
-```
-
-[URL 1](https://t.me/maxelbk) | [URL 2](https://twitter.com/maxelbk) | [URL 3](https://maxelblack.github.io/contact) | [GitHub 1](https://github.com/maxelblack/mxol) | [GitHub 2](https://github.com/maxelblack/MXCL) | [GitHub 3](https://github.com/pd2-works/psh)
-
-By the way, the data language is MXOL, which is one of my projects.
+By the way, I've used Arch Linux for three years before. But I'm now using Windows because of its compatibility.
 
 This repository also contains my home page. (Yeah it is in `src` directory)
 
